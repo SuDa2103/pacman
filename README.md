@@ -1,1 +1,1 @@
-# pacman App using HTML canvas
+# Pacman App using HTML canvas
